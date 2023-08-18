@@ -8,3 +8,7 @@ This is the [posit](https://posit.co)
 
 1. Installed r from the [R](www.r-project.org) site.
 2. Installed ==RStudio== from their website.
+
+## Just Playing Around
+
+My students are doing good.
